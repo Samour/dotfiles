@@ -2,3 +2,5 @@
 
 alias plantuml="java -Djava.awt.headless=true -jar ~/Documents/Software/plantuml.jar"
 
+alias utc-date="date -u +\"%Y-%m-%dT%H:%M:%SZ\""
+
