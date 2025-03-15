@@ -15,4 +15,4 @@ set scrolloff=8
 
 command Gdiff below ter git diff %
 nmap zs :below ter ++rows=15 ++close zsh<CR>
-
+nmap tw "fyiw
