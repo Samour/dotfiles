@@ -3,6 +3,8 @@ syntax on
 filetype on
 filetype plugin on
 filetype indent on
+set exrc
+set secure
 
 set cursorline
 set incsearch
