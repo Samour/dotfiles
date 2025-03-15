@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+alias plantuml="java -Djava.awt.headless=true -jar ~/Documents/Software/plantuml.jar"
+
